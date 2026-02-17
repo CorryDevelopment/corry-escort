@@ -1,6 +1,6 @@
 # corry-escort
 
-A escort script that adds RP-esk functionality preventing it from being powerfull.
+A escort resource that adds RP-esk functionality preventing it from being powerfull.
 
 Feel free to star the repository and check out my portfolio and discord @ Discord: https://discord.gg/H7MVAeejPt & Portfolio: https://corry.io 
 For support inquires please create a post in the support-forum channel on discord or create an issue here on Github.
@@ -46,4 +46,5 @@ end)
 There are no proofs other than a distance check on the initial client function and a check to read of the player is escorting/being escorted already. Would be good to add other authentication to prevent exploiting.
 
 ## Credit
+
 Credit to Ox Community Dev for creating ox_lib.
